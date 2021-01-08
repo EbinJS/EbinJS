@@ -54,27 +54,3 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 </div>
 
 <br/>
-
-<div>
-<h2><img align="center" width="35" src="https://emojis.slackmojis.com/emojis/images/1471987883/1059/glowstick.gif?1471987883" />&nbsp;Featured Repositories</h2>
-<p align="center">
-<a href="https://github.com/EbinJS/DE-OMZETTER--The-Converter">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=DE-OMZETTER--The-Converter&theme=algolia" /></a>
-<a href="https://github.com/EbinJS/Gradient-Colours">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Gradient-Colours&theme=algolia" /></a>
-<a href="https://github.com/EbinJS/Quote-Generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Quote-Generator&theme=algolia" /></a>
-<a href="https://github.com/EbinJS/Sample-clg-site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Sample-clg-site&theme=algolia" /></a>
-</p>
-</div>
-
-<br />
-
-
-<h2><img align="center" alt="EbinJS's Stats" src="https://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197" width="44" />&nbsp;My Stats
-</h2>
-<div align="center">
-    <img height="190" alt="Ebin JS's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia&count_private=true" />
-
-</div>
