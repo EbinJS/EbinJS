@@ -53,6 +53,21 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 </p>
 </div>
 
+<br/>
+
+<div>
+<h2><img align="center" width="35" src="https://emojis.slackmojis.com/emojis/images/1471987883/1059/glowstick.gif?1471987883" />&nbsp;Featured Repositories</h2>
+<p align="center">
+<a href="https://github.com/EbinJS/DE-OMZETTER--The-Converter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=DE-OMZETTER--The-Converter&theme=algolia" /></a>
+<a href="https://github.com/EbinJS/Gradient-Colours">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Gradient-Colours&theme=algolia" /></a>
+<a href="https://github.com/EbinJS/Quote-Generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Quote-Generator&theme=algolia" /></a>
+<a href="https://github.com/EbinJS/Sample-clg-site">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Sample-clg-site&theme=algolia" /></a>
+</p>
+</div>
 
 <br />
 
