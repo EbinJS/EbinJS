@@ -23,7 +23,7 @@ src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&lo
 </div>
 
 <br />
-    <p> <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width="28" />Welcome to my Github profile!
+    <p> <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width="28" /> Welcome to my Github profile!
 <br />
 Looking forward to build a career in computer field💻<br />
 I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <img
