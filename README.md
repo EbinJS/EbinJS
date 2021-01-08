@@ -5,19 +5,6 @@
 <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222392/104015976-6ccd1780-51db-11eb-8e73-9bad5213f0f1.gif" width="450"/>
 
-<p>
-<a href="https://www.linkedin.com/in/ebinjs" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/ebinjs8" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:ebinjohnysenchonese@gmail.com" target="_blank"><img alt="Gmail"
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-<a href="https://t.me/ebinjs"><img alt="Telegram"
-src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://www.instagram.com/ebinj.s/"><img alt="Instagram"
-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100008949277691"><img alt="Facebook"
-src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-
-</p>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EbinJS&color=ff3300&label=PROFILE+VISITS" width="130" height="19" /><br />
 </div>
@@ -54,3 +41,18 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 </div>
 
 <br/>
+
+<h2><img align="center" width="38" src="https://emojis.slackmojis.com/emojis/images/1471045847/821/fistbump.gif?1471045847" />&nbsp;Connect with me</h2>
+<p>
+<a href="https://www.linkedin.com/in/ebinjs" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>
+<a href="https://twitter.com/ebinjs8" target="_blank"><img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
+<a href="mailto:ebinjohnysenchonese@gmail.com" target="_blank"><img alt="Gmail"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px"/></a>
+<a href="https://t.me/ebinjs"><img alt="Telegram"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="22px"/></a>
+<a href="https://www.instagram.com/ebinj.s/"><img alt="Instagram"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px"/></a>
+<a href="https://www.facebook.com/profile.php?id=100008949277691"><img alt="Facebook"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="22px"/></a>
+
+</p>
