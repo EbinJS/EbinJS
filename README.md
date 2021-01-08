@@ -38,8 +38,6 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 - 🏫 I'm currently pursuing B.Tech in Computer Science & Engineering
 - ⚡ Fun fact: Sports Person<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="25" /> Sightseer 🏍️
 
----
-
 <div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" align="center" width="40" /> Languages and Tools</h2>
 <p align="center">
