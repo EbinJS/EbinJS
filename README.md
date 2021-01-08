@@ -75,6 +75,6 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 <h2><img align="center" alt="EbinJS's Stats" src="https://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197" width="44" />&nbsp;My Stats
 </h2>
 <div align="center">
-    <img height="190" alt="Ebin JS's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" />
+    <img height="190" alt="Ebin JS's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia&count_private=true" />
 
 </div>
