@@ -23,7 +23,7 @@ I am a <b>"Wanna Be" Web Developer</b> 👨‍💻 from <b>Kochi, Kerala, India<
 <br />
 <br />
 <div align="left">
-<h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> &nbsp;Quick facts about me !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="EbinJS's Stats" src="https://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197" width="44" />&nbsp;My Stats
+<h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> &nbsp;Quick facts about me !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="EbinJS's Stats" src="https://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197" width="44" />&nbsp;My Stats
 </h2>
 
 <img alt="Developer Pic" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" align="right" width="55%"/>
