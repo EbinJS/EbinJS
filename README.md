@@ -31,17 +31,17 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 - ⚡ Fun fact: Sports Person<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="25" /> Sightseer 🏍️
 
 <div>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" align="center" width="40" /> Languages and Tools</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" align="center" width="40"  /> Languages and Tools</h2>
 <p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/Style/CSS/Overview.en.html">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="35.5" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="46" alt="Javascript" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" width="56" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="48" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://codepen.io/"><img src="https://emojis.slackmojis.com/emojis/images/1490192034/1908/codepen.png?1490192034" alt="CodePen" width="49" /></a> &nbsp;&nbsp;&nbsp;
+<code><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" /></a></code> &nbsp;&nbsp;&nbsp;
+<code><a href="https://www.w3.org/Style/CSS/Overview.en.html">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="35.5" /></a></code> &nbsp;&nbsp;&nbsp;
+<code><a href="https://www.javascript.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="46" alt="Javascript" /></a></code> &nbsp;&nbsp;&nbsp;
+<code><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" width="56" /></a></code> &nbsp;&nbsp;&nbsp;
+<code><a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="48" /></a></code> &nbsp;&nbsp;&nbsp;
+<code><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" width="50" /></a></code> &nbsp;&nbsp;&nbsp;
+<code><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" width="50" /></a></code> &nbsp;&nbsp;&nbsp;
+<code><a href="https://codepen.io/"><img src="https://emojis.slackmojis.com/emojis/images/1490192034/1908/codepen.png?1490192034" alt="CodePen" width="49" /></a></code> &nbsp;&nbsp;&nbsp;
 </p>
 </div>
 
