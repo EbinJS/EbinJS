@@ -69,3 +69,16 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="42p
 
 </p>
 <br/>
+<div>
+<h2><img align="center" width="35" src="https://emojis.slackmojis.com/emojis/images/1471987883/1059/glowstick.gif?1471987883" />&nbsp;Repository Spotlights</h2>
+<p align="center">
+<a href="https://github.com/EbinJS/DE-OMZETTER--The-Converter">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=DE-OMZETTER--The-Converter&theme=algolia" /></a>
+<a href="https://github.com/EbinJS/Gradient-Colours">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Gradient-Colours&theme=algolia" /></a>
+<a href="https://github.com/EbinJS/Quote-Generator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Quote-Generator&theme=algolia" /></a>
+<a href="https://github.com/EbinJS/Sample-clg-site">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EbinJS&repo=Sample-clg-site&theme=algolia" /></a>
+</p>
+</div>
