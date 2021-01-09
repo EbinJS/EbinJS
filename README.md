@@ -8,8 +8,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 <img align="center" alt="GitHub" height=130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br />
 <br />
@@ -22,8 +20,6 @@ Looking forward to build a career in computer field💻<br />
 I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <img src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" />
 </p>
 </div>
-<br />
-<br />
 <br />
 <br />
 
