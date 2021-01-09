@@ -22,20 +22,20 @@ I am a <b>"Wanna Be" Web Developer</b> 👨‍💻 from <b>Kochi, Kerala, India<
 
 <br />
 <br />
-<h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> &nbsp;Quick facts about me !</h2>
+<div align="left">
+<h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> &nbsp;Quick facts about me !&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" alt="EbinJS's Stats" src="https://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197" width="44" />&nbsp;My Stats
+</h2>
+
+<img alt="Developer Pic" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" align="right" width="55%"/>
 
 - 🔭 I’m currently working on some hobby projects <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" /> 
 - 👨🏻‍🎓 Future Computer Engineer, Self-learner <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340467/4971/hearteyes.gif?1542340467" width="24" />
 - 🌱 I’m currently learning Javascript <img align="center" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="18" />, React <img align="center" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="20" />
 - 🏫 I'm currently pursuing B.Tech in Computer Science & Engineering
 - ⚡ Fun fact: Sports Person<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="25" /> Sightseer 🏍️
-
-<h2><img align="center" alt="EbinJS's Stats" src="https://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197" width="44" />&nbsp;My Stats
-</h2>
-<div align="center">
-    <img height="190" alt="Ebin JS's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" />
-
 </div>
+
+<br />
 
 <div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" align="center" width="40"  /> Languages and Tools</h2>
