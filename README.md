@@ -3,20 +3,23 @@
 <h1>Bonjour, I am Ebin JS<img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="100" height="80"></h1>
 
 <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222392/104015976-6ccd1780-51db-11eb-8e73-9bad5213f0f1.gif" width="450"/>
+        src="https://user-images.githubusercontent.com/49222392/104015976-6ccd1780-51db-11eb-8e73-9bad5213f0f1.gif" align="left" width="60%"/>
 
+<br />
+<img align="center" alt="GitHub" height=130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<br />
+<br />
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EbinJS&color=ff3300&label=PROFILE+VISITS" width="130" height="19" /><br />
 </div>
-
-<br />
-    <p> <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width="28" /> Welcome to my Github profile!
+    <p> <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width="28" />My Github profile!
 <br />
 Looking forward to build a career in computer field💻<br />
 I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <img
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" />
 </p>
 </div>
+<br/>
 <h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> &nbsp;Quick facts about me !</h2>
 
 - 🔭 I’m currently working on some hobby projects <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" /> 
