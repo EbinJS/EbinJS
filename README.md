@@ -20,6 +20,7 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 </p>
 </div>
 <br/>
+---                                                                              
 <h2><img align="center" src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif?1500426137" width="30" /> &nbsp;Quick facts about me !</h2>
 
 - 🔭 I’m currently working on some hobby projects <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" /> 
