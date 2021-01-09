@@ -30,6 +30,13 @@ I am a <b>"Wanna Be" Web Developer</b> 👨‍💻 from <b>Kochi, Kerala, India<
 - 🏫 I'm currently pursuing B.Tech in Computer Science & Engineering
 - ⚡ Fun fact: Sports Person<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="25" /> Sightseer 🏍️
 
+<h2><img align="center" alt="EbinJS's Stats" src="https://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197" width="44" />&nbsp;My Stats
+</h2>
+<div align="center">
+    <img height="190" alt="Ebin JS's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" />
+
+</div>
+
 <div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" align="center" width="40"  /> Languages and Tools</h2>
 <p align="center">
