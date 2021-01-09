@@ -6,6 +6,10 @@
         src="https://user-images.githubusercontent.com/49222392/104015976-6ccd1780-51db-11eb-8e73-9bad5213f0f1.gif" align="right" width="60%"/>
 
 <br />
+<br />
+<br />
+<br />
+<br />
 <img align="center" alt="GitHub" height=130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br />
 <br />
