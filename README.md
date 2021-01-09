@@ -49,16 +49,16 @@ I am a <b>"Wanna Be" Web Developer</b> 🚀 from <b>Kochi, Kerala, India</b> <im
 <h2><img align="center" width="38" src="https://emojis.slackmojis.com/emojis/images/1471045847/821/fistbump.gif?1471045847" />&nbsp;Connect with me</h2>
 <br/>
 <p align="center">
-<a href="https://www.linkedin.com/in/ebinjs" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="42px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/ebinjs8" target="_blank"><img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="42px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ebinjohnysenchonese@gmail.com" target="_blank"><img alt="Gmail"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="42px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/ebinjs"><img alt="Telegram"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="42px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/ebinj.s/"><img alt="Instagram"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="42px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100008949277691"><img alt="Facebook"
-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="42px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><a href="https://www.linkedin.com/in/ebinjs" target="_blank"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="42px"/></a></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><a href="https://twitter.com/ebinjs8" target="_blank"><img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="42px" /></a></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><a href="mailto:ebinjohnysenchonese@gmail.com" target="_blank"><img alt="Gmail"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="42px"/></a></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><a href="https://t.me/ebinjs"><img alt="Telegram"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="42px"/></a></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><a href="https://www.instagram.com/ebinj.s/"><img alt="Instagram"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="42px"/></a></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><a href="https://www.facebook.com/profile.php?id=100008949277691"><img alt="Facebook"
+src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="42px"/></a></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 <br/>
