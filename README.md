@@ -3,7 +3,7 @@
 <h1>Bonjour, I am Ebin JS<img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="100" height="80"></h1>
 
 <img alt="Developer Pic"
-        src="https://user-images.githubusercontent.com/49222392/104015976-6ccd1780-51db-11eb-8e73-9bad5213f0f1.gif" align="right" width="55%"/>
+        src="https://user-images.githubusercontent.com/49222392/104015976-6ccd1780-51db-11eb-8e73-9bad5213f0f1.gif" align="right" width="50%"/>
 
 <br />
 <br />
