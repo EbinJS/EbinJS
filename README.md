@@ -16,7 +16,7 @@
     <p> <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width="28" />My Github profile!
 <br />
 Salesforce Developer💻<br />
-<b>Kochi, Kerala, India</b> <img src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" />
+<b>Kochi, Kerala, India</b>
 </p>
 </div>
 
@@ -28,8 +28,8 @@ Salesforce Developer💻<br />
 
 <img alt="Developer Pic" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" align="right" width="55%"/>
 
-- 🔭 I’m currently working as a Salesforce Developer <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" />
-- 
+- 🔭 I’m working as a Salesforce Developer <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" />
+- 📘 Learning Apex & Lightning components
 - 👨🏻‍🎓 Self-learner <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340467/4971/hearteyes.gif?1542340467" width="24" />
 - 🏫 B.Tech in Computer Science & Engineering
 - ⚡ Fun fact: Sports Person<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="25" /> Sightseer 🏍️
