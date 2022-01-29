@@ -28,8 +28,9 @@ Salesforce Developer💻<br />
 
 <img alt="Developer Pic" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" align="right" width="55%"/>
 
-- 🔭 I’m currently working as a Salesforce Developer <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" /> 
-- 👨🏻‍🎓 Computer Engineer, Self-learner <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340467/4971/hearteyes.gif?1542340467" width="24" />
+- 🔭 I’m currently working as a Salesforce Developer <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" />
+- 
+- 👨🏻‍🎓 Self-learner <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340467/4971/hearteyes.gif?1542340467" width="24" />
 - 🏫 B.Tech in Computer Science & Engineering
 - ⚡ Fun fact: Sports Person<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="25" /> Sightseer 🏍️
 </div>
@@ -39,6 +40,7 @@ Salesforce Developer💻<br />
 <div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4595/blob-turtle.gif?1536351075" align="center" width="40"  /> Languages and Tools</h2>
 <p align="center">
+<code><a href="https://www.salesforce.com/in/"><img src="https://emojis.slackmojis.com/emojis/images/1606861302/11567/salesforce.png?1606861302" alt="Salesforce" width="50" /></a></code> &nbsp;&nbsp;&nbsp;
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" /></a></code> &nbsp;&nbsp;&nbsp;
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="35.5" /></a></code> &nbsp;&nbsp;&nbsp;
