@@ -15,8 +15,8 @@
 </div>
     <p> <img src="https://emojis.slackmojis.com/emojis/images/1549409407/5272/pig-happy-jumping.gif?1549409407" width="28" />My Github profile!
 <br />
-Looking forward to build a career in computer field💻<br />
-I am a <b>"Wanna Be" Web Developer</b> 👨‍💻 from <b>Kochi, Kerala, India</b> <img src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" />
+Salesforce Developer💻<br />
+<b>Kochi, Kerala, India</b> <img src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" />
 </p>
 </div>
 
@@ -28,10 +28,10 @@ I am a <b>"Wanna Be" Web Developer</b> 👨‍💻 from <b>Kochi, Kerala, India<
 
 <img alt="Developer Pic" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=EbinJS&show_icons=true&include_all_commits=true&theme=algolia" align="right" width="55%"/>
 
-- 🔭 I’m currently working on some hobby projects <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" /> 
-- 👨🏻‍🎓 Future Computer Engineer, Self-learner <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340467/4971/hearteyes.gif?1542340467" width="24" />
+- 🔭 I’m currently working as a Salesforce Developer <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340469/4975/party.gif?1542340469" width="26" /> 
+- 👨🏻‍🎓 Computer Engineer, Self-learner <img align="center" src="https://emojis.slackmojis.com/emojis/images/1542340467/4971/hearteyes.gif?1542340467" width="24" />
 - 🌱 I’m currently learning Javascript <img align="center" src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="18" />, React <img align="center" src="https://emojis.slackmojis.com/emojis/images/1473950148/1161/react.png?1473950148" width="20" />
-- 🏫 I'm currently pursuing B.Tech in Computer Science & Engineering
+- 🏫 B.Tech in Computer Science & Engineering
 - ⚡ Fun fact: Sports Person<img align="center" src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="25" /> Sightseer 🏍️
 </div>
 
